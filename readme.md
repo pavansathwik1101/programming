@@ -1,2 +1,2 @@
 contains all of my programming questions
-languages known :
+languages known : c
