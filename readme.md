@@ -1,1 +1,1 @@
-contains 
+contains all
